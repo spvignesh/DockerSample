@@ -1,0 +1,22 @@
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.deps.json
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.runtimeconfig.json
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.runtimeconfig.dev.json
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.dll
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.pdb
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.csprojAssemblyReference.cache
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.AssemblyInfoInputs.cache
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.AssemblyInfo.cs
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.dll
+C:\Users\S1530.CORP\Documents\Visual Studio 2017\Projects\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.pdb
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.deps.json
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.runtimeconfig.json
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.runtimeconfig.dev.json
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.dll
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\bin\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.pdb
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.csprojAssemblyReference.cache
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.AssemblyInfoInputs.cache
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.AssemblyInfo.cs
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.dll
+C:\Users\S1530\Source\Repos\spvignesh\DockerSample\ConsoleApp_DotNetCore\ConsoleApp_DotNetCore\obj\Debug\netcoreapp2.0\ConsoleApp_DotNetCore.pdb
