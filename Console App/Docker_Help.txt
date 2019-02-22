@@ -1,0 +1,8 @@
+docker ps 						(Lists all conatiners)
+docker images -a 					(Lists all images)
+docker image rm <<imageid>>				(Removes the image)
+docker kill container <<containerid>>			(Kills the container)
+
+docker run --name <<continername>> <<imagename>>	(Name the conatiner of the image and runs it)
+docker run <<imagename>>				(Runs the application image)	
+docker build -t <<imagename:version>>			(Builds and creates the image)
