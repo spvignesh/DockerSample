@@ -1,2 +1,2 @@
 # DockerSample
-Deploy Docker C# .Net Applications using Docker
+Deploy C# .Net Applications using Docker
