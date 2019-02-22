@@ -9,6 +9,6 @@
 4. Run the app in docker
 	-> docker run myfirstimage:v1
 5. Run the app in container
-	-> docker run --name container1 myfirstimage:v1 (creates a container named conatiner1 and run the application in the container)
+	-> docker run --name container1 myfirstimage:v1 (creates a container named container1 and runs the application)
 	-> docker run --name container2 myfirstimage:v1 
 	-> docker ps (lists all the container).
