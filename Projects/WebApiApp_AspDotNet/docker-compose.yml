@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapiapp_aspdotnet:
+    image: ${DOCKER_REGISTRY-}webapiappaspdotnet
+    build:
+      context: .\WebApiApp_AspDotNet
+      dockerfile: Dockerfile
