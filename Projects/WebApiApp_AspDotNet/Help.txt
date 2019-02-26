@@ -1,6 +1,6 @@
 Docker Version - 2.0.0.2 (30215)
 
-docker ps 													(Lists all conatiners)
+docker ps 													(Lists all containers)
 
 docker stop <<containerid>>											(Stops the running container)
 docker start <<containerid>>											(Starts the container)
