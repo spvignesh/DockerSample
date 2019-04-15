@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  webapp1:
+    build:
+      context: C:\Users\S1530\Source\Repos\WebApp1\WebApp1
+      dockerfile: Dockerfile
+    image: webapp1
+    ports:
+    - target: 80
+version: '3.4'

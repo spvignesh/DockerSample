@@ -1,0 +1,23 @@
+{
+	"routes": [
+		{
+			"endpoint": "/employees",
+			"destination": {
+				"uri": "http://172.24.39.107/api/employees",
+				"requiresAuthentication": "false"
+			}
+		},
+		{
+			"endpoint": "/companies",
+			"destination": {
+				"uri": "http://172.24.34.109/api/companies",
+				"requiresAuthentication": "false"
+			}
+		}
+	],
+	"authenticationService": {
+		"uri": ""
+	}
+}
+
+//NOTE: The URI is set based on docker IPServerAddress of the web application.
