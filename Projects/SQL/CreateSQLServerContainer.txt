@@ -1,0 +1,11 @@
+Creates a container for SQL server express and connect to sql server via SSMS
+
+1. docker pull microsoft/mssql-server-windows-express (or docker pull microsoft/mssql-server-windows-express:2017-latest)
+
+2. docker run --detach --name mssql --publish 1433:1433 --env sa_password=SuperSecretPassw0rd --env ACCEPT_EULA=Y --name mssql microsoft/mssql-server-windows-express
+
+3. docker ps
+
+4. docker inspect --format '{{.NetworkSettings.Networks.nat.IPAddress}}' mssql
+
+5. open SQL Server Management Studio and connect using <<ipaddress from 4>> with username : sa and password: SuperSecretPassw0rd
