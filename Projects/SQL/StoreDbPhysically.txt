@@ -1,0 +1,11 @@
+Store db outside the container in a physical path (c:\mssql-data)
+
+1. mkdir C:\mssql-data
+
+2. docker run --detach --name mssql --publish 1433:1433 --env sa_password=SuperSecretPassw0rd --env ACCEPT_EULA=Y --volume c:\mssql-data:c:\data microsoft/mssql-server-windows-express
+
+3. docker inspect --format '{{.NetworkSettings.Networks.nat.IPAddress}}' mssql
+
+4. Connect to database and create a new db with path as c:\data
+
+5. Open C:\mssql-data and check the .mdf and .ldf files

@@ -1,0 +1,7 @@
+Creating a new sql container with existing database
+
+1. docker run --detach --name mssql --publish 1433:1433 --env sa_password=SuperSecretPassw0rd --env ACCEPT_EULA=Y --env attach_dbs="[{'dbName':'persistent-database','dbFiles':['C:\\data\\persistent-database.mdf','C:\\data\\persistent-database_log.ldf']}]" --volume c:\mssql-data:c:\data microsoft/mssql-server-windows-express
+
+2. docker inspect --format '{{.NetworkSettings.Networks.nat.IPAddress}}' mssql
+
+3. Connect to database and check the exisiting db

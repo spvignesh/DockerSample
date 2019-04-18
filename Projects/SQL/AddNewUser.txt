@@ -1,0 +1,19 @@
+Add user to existing sql server 
+
+1. Create the container for SQL
+
+2. docker inspect --format '{{.NetworkSettings.Networks.nat.IPAddress}}' mssql
+
+3. sqlcmd -U sa -P SuperSecretPassw0rd -S <<IPAddress>>
+
+4. Test the connection by executing below command,
+	1. select name from sys.databases
+	2. GO
+
+5. Execute the below command to create a login 
+	1. create login vignesh with password='Vig123nesH'
+	2. GO
+
+6. Add role to user
+	1. EXEC master..sp_addsrvrolemember @loginame = N'vignesh', @rolename = N'sysadmin';
+	2. GO
